@@ -1,6 +1,6 @@
 ### Hello there, I'm [Tomasz](https://tomaszgil.me/) 👋
 
-Working as a Senior Software Engineer [@Egnyte](https://www.egnyte.com/). Based in **Poznan, Poland** <img src="https://image.flaticon.com/icons/svg/555/555571.svg" width="18"/>.
+Working as a Senior Software Engineer [@Rvvup](https://www.rvvup.com/). Based in **Poznan, Poland** <img src="https://image.flaticon.com/icons/svg/555/555571.svg" width="18"/>.
 
 ![Javascript](https://aleen42.github.io/badges/src/javascript.svg)
 ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
