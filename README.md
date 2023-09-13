@@ -1,5 +1,7 @@
 ### Hello there, I'm [Tomasz](https://tomaszgil.me/) 👋
 
+Front-end engineer with a great design eye and a strong focus on problem-solving. I have over 7 years of experience in delivering clean, performant and well-tested solutions. Always looking for ways to improve.
+
 Working as a Senior Software Engineer [@Rvvup](https://www.rvvup.com/). Based in **Poznan, Poland**.
 
 ![Javascript](https://aleen42.github.io/badges/src/javascript.svg)
