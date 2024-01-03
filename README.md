@@ -2,7 +2,7 @@
 
 Front-end engineer with a great design eye and a strong focus on problem-solving. I have over 7 years of experience in delivering clean, performant and well-tested solutions. Always looking for ways to improve.
 
-Working as a Senior Software Engineer. Based in **Poznan, Poland**.
+Working as a Senior UI Engineer at [Salesloft](https://www.salesloft.com/). Based in **Poznan, Poland**.
 
 ![Javascript](https://aleen42.github.io/badges/src/javascript.svg)
 ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
