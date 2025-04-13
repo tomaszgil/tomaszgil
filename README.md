@@ -1,6 +1,8 @@
-### Hello there, I'm [Tomasz](https://tomaszgil.me/) 👋
+### Welcome! My name is [Tomasz](https://tomaszgil.me/) 👋
 
-Front-end engineer with a great design eye and a strong focus on problem-solving. I have over 7 years of experience in delivering clean, performant and well-tested solutions. Always looking for ways to improve.
+I'm a front-end engineer passionate about web, design and building large-scale applications.
+
+I consider myself a force multiplier for the teams I'm a part of, as I prioritize knowledge sharing and continuous learning. I'm always looking for new ways to improve.
 
 Working as a Senior UI Engineer at [Salesloft](https://www.salesloft.com/). Based in **Poznan, Poland**.
 
