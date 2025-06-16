@@ -4,7 +4,7 @@ I'm a front-end engineer passionate about web, design and building large-scale a
 
 I consider myself a force multiplier for the teams I'm a part of, as I prioritize knowledge sharing and continuous learning. I'm always looking for new ways to improve.
 
-Working as a Senior UI Engineer at [Salesloft](https://www.salesloft.com/). Based in **Poznan, Poland**.
+Based in **Poznan, Poland**. I'm open to work! 📢
 
 ![Javascript](https://aleen42.github.io/badges/src/javascript.svg)
 ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
